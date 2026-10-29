@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Archi142857
+- 👋 Hi, I’m @archi142857
 - 👀 I’m interested in 'Python', 'Java'
 - 🌱 I’m currently learning 'Python'
 
