@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archi142857
-- 👀 I’m interested in 'Python', 'Java'
+- 👀 I’m interested in 'Python', 'JavaScript'
 - 🌱 I’m currently learning 'Python'
 
 <!---
